@@ -30,8 +30,8 @@ class WhatsappOptionsForm(forms.Form):
 
 
 class WhatsappMessage(Plugin):
-    author = 'Eduard Carreras'
-    author_url = 'https://github.com/ecarreras/sentry-whatsapp'
+    author = 'Bernard Ojengwa'
+    author_url = 'https://github.com/ojengwa/sentry-whatsapp'
     title = 'Whatsapp'
     conf_title = 'Whatsapp'
     conf_key = 'whatsapp'
